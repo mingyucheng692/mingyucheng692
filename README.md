@@ -17,10 +17,3 @@ Here are some ideas to get you started:
 
 ### My Github Contributions
 ![](https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/main/assets/github-contribution-grid-snake.svg)
-
-
-- name: Push to GitHub
-  uses: EndBug/add-and-commit@v7.2.1
-  with:
-    branch: main
-    message: 'Generate Contribution Snake'
