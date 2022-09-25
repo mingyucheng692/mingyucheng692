@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#My Github Contributions
+### My Github Contributions
 ![](https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/main/assets/github-contribution-grid-snake.svg)
