@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### My Github Contributions
 ![](https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/main/assets/github-contribution-grid-snake.svg)
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/mingyucheng692/mingyucheng692/assets/github-contribution-grid-snake.svg" /></div>
 
 
 - name: Push to GitHub
