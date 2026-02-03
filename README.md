@@ -2,7 +2,7 @@
 
 工业软件 / 嵌入式方向｜端-边-云全链路研发
 
-**Links**: [![Website](https://img.shields.io/badge/Website-0B7285?logo=googlechrome&logoColor=white)](https://mingyuccheng692.github.io) [![Linkend](https://img.shields.io/badge/Linkend-555555?logo=linktree&logoColor=white)](#)
+**Links**: [![Website](https://img.shields.io/badge/Website-0B7285?logo=googlechrome&logoColor=white)](https://mingyucheng692.github.io) [![Linkend](https://img.shields.io/badge/Linkend-555555?logo=linktree&logoColor=white)](#)
 
 **Tech Stack**<br>
 语言: ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-004482?logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)<br>
