@@ -18,8 +18,8 @@ Tools/工具: ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&l
 **GitHub Statistics**
 
 <p align="center">
-  <a href="https://github.com/mingyucheng692"><img src="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&theme=tokyonight&hide_border=true" width="410" alt="GitHub Stats" /></a>
-  <a href="https://github.com/mingyucheng692"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&theme=tokyonight&hide_border=true" width="310" alt="Top Languages" /></a>
+  <a href="https://github.com/mingyucheng692"><img src="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="410" alt="GitHub Stats" /></a>
+  <a href="https://github.com/mingyucheng692"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="310" alt="Top Languages" /></a>
 </p>
 
 ### Contributions
