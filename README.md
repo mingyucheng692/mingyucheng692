@@ -18,15 +18,11 @@ Tools/工具: ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&l
 **GitHub Statistics**
 
 <p align="center">
-  <a href="https://github.com/mingyucheng692">
-    <img src="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&theme=tokyonight&hide_border=true" width="410" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/mingyucheng692">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&theme=tokyonight&hide_border=true" width="310" alt="Top Languages" />
-  </a>
+  <a href="https://github.com/mingyucheng692"><img src="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&theme=tokyonight&hide_border=true" width="410" alt="GitHub Stats" /></a>
+  <a href="https://github.com/mingyucheng692"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&theme=tokyonight&hide_border=true" width="310" alt="Top Languages" /></a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/snake.svg" width="20" height="20"> Contributions
+### Contributions
 
 <br/>
 
