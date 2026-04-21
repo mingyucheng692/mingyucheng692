@@ -28,12 +28,22 @@ Industrial Software & Energy Storage EMS Developer | 储能 EMS & 工业上位�
 **GitHub Statistics**
 
 <p align="center">
-  <a href="https://github.com/mingyucheng692"><img src="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="410" alt="GitHub Stats" /></a>
-  <a href="https://github.com/mingyucheng692"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="310" alt="Top Languages" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&theme=dark&title_color=0b7285&text_color=ffffff&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="410">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="410">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="410">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&theme=dark&title_color=0b7285&text_color=ffffff&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="310">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="310">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="310">
+  </picture>
 </p>
 
-### Contributions
+### 🐍 Snake eating my contributions
 
-<br/>
-
-![](https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/github-contribution-grid-snake.svg">
+</picture>
