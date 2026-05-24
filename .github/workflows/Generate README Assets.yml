@@ -16,14 +16,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#3c9cfd
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3c9cfd
-
       - name: Generate light stats card
         uses: readme-tools/github-readme-stats-action@v2
         with:
@@ -55,6 +47,14 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=dark&title_color=0b7285&text_color=ffffff&icon_color=0b7285&border_color=e4e4e4&hide_border=false
           path: dist/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#3c9cfd
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3c9cfd
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
