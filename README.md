@@ -29,14 +29,14 @@ Industrial Software & Energy Storage EMS Developer | 储能 EMS & 工业上位�
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&theme=dark&title_color=0b7285&text_color=ffffff&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="410">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="410">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mingyucheng692&show_icons=true&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="410">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/github-stats-dark.svg" width="410">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/github-stats-light.svg" width="410">
+    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/github-stats-light.svg" width="410">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&theme=dark&title_color=0b7285&text_color=ffffff&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="310">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="310">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyucheng692&layout=compact&bg_color=f9f9f9&title_color=0b7285&text_color=333333&icon_color=0b7285&border_color=e4e4e4&hide_border=false" width="310">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/top-langs-dark.svg" width="310">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/top-langs-light.svg" width="310">
+    <img alt="Top Languages" src="https://raw.githubusercontent.com/mingyucheng692/mingyucheng692/output/top-langs-light.svg" width="310">
   </picture>
 </p>
 
