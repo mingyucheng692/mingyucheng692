@@ -1,4 +1,4 @@
-name: Generate GitHub Stats
+name: Generate README Assets
 
 on:
   schedule:
@@ -15,6 +15,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#3c9cfd
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3c9cfd
 
       - name: Generate light stats card
         uses: readme-tools/github-readme-stats-action@v2
